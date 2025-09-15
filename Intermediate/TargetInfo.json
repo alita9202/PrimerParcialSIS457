@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ejemplo",
+			"Path": "D:\\SIS457\\Ejemplo\\Source\\Ejemplo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EjemploEditor",
+			"Path": "D:\\SIS457\\Ejemplo\\Source\\EjemploEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

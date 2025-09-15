@@ -1,0 +1,3 @@
+D:\SIS457\Ejemplo\Intermediate\Build\Win64\UE4Editor\Development\Ejemplo\Definitions.Ejemplo.h
+D:\SIS457\Ejemplo\Source\Ejemplo\Bloque.h
+D:\SIS457\Ejemplo\Intermediate\Build\Win64\UE4Editor\Inc\Ejemplo\Bloque.generated.h

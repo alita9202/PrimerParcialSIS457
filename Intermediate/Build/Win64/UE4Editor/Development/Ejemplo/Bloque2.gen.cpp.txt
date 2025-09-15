@@ -1,0 +1,7 @@
+D:\SIS457\Ejemplo\Intermediate\Build\Win64\UE4Editor\Development\Ejemplo\Definitions.Ejemplo.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\SIS457\Ejemplo\Source\Ejemplo/Bloque2.h
+D:\SIS457\Ejemplo\Source\Ejemplo\Bloque.h
+D:\SIS457\Ejemplo\Intermediate\Build\Win64\UE4Editor\Inc\Ejemplo\Bloque.generated.h
+D:\SIS457\Ejemplo\Intermediate\Build\Win64\UE4Editor\Inc\Ejemplo\Bloque2.generated.h

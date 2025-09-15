@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\SIS457\\Ejemplo\\Source\\Ejemplo\\Ejemplo.Build.cs",
+		"D:\\SIS457\\Ejemplo\\Source\\Ejemplo.Target.cs",
+		"D:\\SIS457\\Ejemplo\\Source\\EjemploEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

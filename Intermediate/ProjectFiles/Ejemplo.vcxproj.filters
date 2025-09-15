@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ejemplo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{204B476D-91E2-490C-A2F0-8F2388B62C66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ejemplo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EjemploEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A59737CC-B819-4BEF-8409-6520263A97CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ejemplo">
+      <UniqueIdentifier>{C672655C-DE59-4026-BC86-9EECE58FC50C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Ejemplo\Bloque.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\Bloque.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ejemplo\Bloque1.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\Bloque1.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ejemplo\Bloque2.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\Bloque2.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Ejemplo\Ejemplo.Build.cs">
+      <Filter>Source\Ejemplo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ejemplo\Ejemplo.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\Ejemplo.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ejemplo\EjemploCharacter.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\EjemploCharacter.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ejemplo\EjemploGameMode.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\EjemploGameMode.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ejemplo\Puerta.cpp">
+      <Filter>Source\Ejemplo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ejemplo\Puerta.h">
+      <Filter>Source\Ejemplo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
